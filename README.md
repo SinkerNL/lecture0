@@ -6,7 +6,7 @@ The main idea of the website to be made, is to make a personal website with info
 
 Any ideas or whatever? Please let me know!
 
-# The files
+## The files
 This project exists out of 4 different files. 
 - index.html [the homepage]
 - projects.html [projects I'm working on]
